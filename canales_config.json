@@ -1,13 +1,13 @@
 {
   "version": "1.0",
-  "lastUpdate": "2025-061-21",
+  "lastUpdate": "2025-05-21",
   "canales": [
     {
       "nombre": "DAZN 1 F1",
       "enlaces": [
-        "acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1000",
-        "acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69000",
-        "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55000"
+        "acestream://",
+        "acestream://",
+        "acestream://"
       ],
       "logo": "dazn_1_f1"
     },
