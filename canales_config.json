@@ -4,32 +4,51 @@
   "canales": [
     {
       "nombre": "DAZN 1 F1",
-      "url": "acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1",
+      "enlaces": [
+        "acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1",
+        "acestream://backup_enlace_1_aqui",
+        "acestream://backup_enlace_2_aqui"
+      ],
       "logo": "dazn_1_f1"
     },
     {
       "nombre": "M. LaLiga",
-      "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947",
+      "enlaces": [
+        "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947",
+        "acestream://backup_enlace_1_aqui"
+      ],
       "logo": "m_laliga"
     },
     {
       "nombre": "DAZN LaLiga",
-      "url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
+      "enlaces": [
+        "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
+        "acestream://backup_enlace_1_aqui"
+      ],
       "logo": "dazn_laliga"
     },
     {
       "nombre": "MovistarPlus",
-      "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
+      "enlaces": [
+        "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
+        "acestream://backup_enlace_1_aqui"
+      ],
       "logo": "movistar_plus"
     },
     {
       "nombre": "M+ Deporte",
-      "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
+      "enlaces": [
+        "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4",
+        "acestream://backup_enlace_1_aqui"
+      ],
       "logo": "m_deportes_hd"
     },
     {
       "nombre": "M+Campeones",
-      "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9",
+      "enlaces": [
+        "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9",
+        "acestream://backup_enlace_1_aqui"
+      ],
       "logo": "m_campeones_hd"
     }
   ]
