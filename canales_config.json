@@ -51,5 +51,13 @@
       ],
       "logo": "m_campeones_hd"
     }
+	{
+      "nombre": "Dazn_1",
+      "enlaces": [
+        "acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276",
+        "acestream://backup_enlace_1_aqui"
+      ],
+      "logo": "dazn_1"
+    }
   ]
 } 
