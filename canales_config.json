@@ -40,7 +40,9 @@
       "nombre": "MovistarPlus",
       "enlaces": [
         "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
-        "acestream://backup_enlace_1_aqui"
+        "acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4",
+		"acestream://e2bc4aee95306b8897d15b01cc64b239dd1b8a1f",
+		"acestream://backup_enlace_1_aqui"
       ],
       "logo": "movistar_plus"
     },
@@ -92,7 +94,7 @@
     {
       "nombre": "Telecinco",
       "enlaces": [
-        "http://185.189.225.150:85/LaSexta/index.m3u8",
+        "acestream://3d376333ee90d6db3d413fc5764ef635882076f5",
         "acestream://backup_enlace_1_aqui"
       ],
       "logo": "telecinco"
