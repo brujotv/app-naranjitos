@@ -76,7 +76,7 @@
     {
       "nombre": "Telecinco",
       "enlaces": [
-        "http://123.24.92.197:8889/nero.php?id=240135",
+        "acestream://http://123.24.92.197:8889/nero.php?id=240135",
         "acestream://backup_enlace_1_aqui"
       ],
       "logo": "telecinco"
